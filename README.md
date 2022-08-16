@@ -2,7 +2,7 @@
 
 
 is a windows rebuild of:
-[https://github.com/lunavod/active-window](https://github.com/lunavod/active-window)
+[https://github.com/octalmage/active-window](https://github.com/octalmage/active-window)
 
 
 ## Installing
